@@ -1,0 +1,16 @@
+[
+{
+  "modid": "experimentalmod",
+  "name": "Experimental Mod",
+  "description": "Experiment various things.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["typosone"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
